@@ -27,7 +27,7 @@ body {
     width: 100%;
     background-color: var(--Pink);
     color: var(--Grayish-Blue);
-    height: 100%;
+    height: 100vh;
 
 
 }
