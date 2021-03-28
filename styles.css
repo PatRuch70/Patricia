@@ -25,9 +25,9 @@ body {
     font-size: 1.1rem;
     line-height: 1.5;
     width: 100%;
-    background-color: var(--Light-Gray);
+    background-color: var(--Pink);
     color: var(--Grayish-Blue);
-    height: 10vh;
+    height: 100vh;
 
 
 }
