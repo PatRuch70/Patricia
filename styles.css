@@ -15,7 +15,7 @@
 
     --Light-Gray: hsl(204, 43%, 93%);
     --Grayish-Blue: hsl(218, 22%, 67%);
-    --pink: hsl(332, 87%, 44%);
+    --Pink: hsl(332, 87%, 44%);
 
 
 }
@@ -25,7 +25,7 @@ body {
     font-size: 1.1rem;
     line-height: 1.5;
     width: 100%;
-    background-color: var(--Cyan);
+    background-color: var(--Pink);
     color: var(--Grayish-Blue);
     height: 100vh;
 
